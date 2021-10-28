@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nhacham.com	TRUE	/	FALSE	1999999999	PHPSESSID	2otp00c8mnalcjrtp8b1v54cb3
+nhacham.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+nhacham.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_8ac53bd0031926c5d76678bb7a5d0226	978c861679c1a2aaeecf99522503f378%7C%7C1635569442%7C%7C1635565842%7C%7Ce1fc5111a7fc4db634430b55bbc56f9a
+nhacham.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	3b569d346682cdb99297d1cada90d7d8
+
